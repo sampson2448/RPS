@@ -1,0 +1,17 @@
+.button-container {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+.button-container img {
+  max-width: 500px;
+}
+.button-container button {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+#winner {
+  margin-top: 15%;
+  text-align: center;
+}
